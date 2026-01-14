@@ -1,4 +1,5 @@
 # Circuit Breakers: Line Following Robot – Webots Simulation
+# Team Members: Sanjeeth, Sangeeth, Sreedev, Aariz
 
 ## Overview
 This project demonstrates a simple line-following robot simulated using **Webots** and programmed in **Python**.  
@@ -105,8 +106,8 @@ This continuous adjustment keeps the robot centered on the line.
 
 ## Files Included
 - `worlds/` – Webots world (.wbt) file  
-- `controllers/` – Python controller code  
-- `README.md` – Project documentation  
+- `controllers/line_follower` – Python controller code  
+- `README.md` – Project documentation and general information 
 
 ---
 
