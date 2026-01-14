@@ -1,5 +1,9 @@
 # Circuit Breakers: Line Following Robot – Webots Simulation
-# Team Members: Sanjeeth, Sangeeth, Sreedev, Aariz
+### Team Members
+- Sanjeeth
+- Sangeeth
+- Aariz
+- Sreedev
 
 ## Overview
 This project demonstrates a simple line-following robot simulated using **Webots** and programmed in **Python**.  
