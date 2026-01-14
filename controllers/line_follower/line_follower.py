@@ -62,15 +62,5 @@ while robot.step(timestep) != -1:
     # sets maximum velocity
     left_motor.setVelocity(left_speed)
     right_motor.setVelocity(right_speed)
-    
-   # code is done!
-   # every frame, the program collects sensor data from the 
-   # 3 data sensorts located at the bottom of the e - puck
-   # the raw data changes depending on colour
-   # it would be less for black, and more for white
-   # a weighted average is taken, and black contributes more
-   # weighted average is taken to prevent noise, so that the robot does not drive erratically
-   # if the reading passes threshold, motor speed and rotation are changed to keep the robot
-   # on the center as much as possible.
-   
+
 # Team Circuit Breakers
